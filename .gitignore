@@ -1,0 +1,8 @@
+node_modules/
+.wakatime-project
+.vscode/
+package-lock.json
+uploads/
+.eslintrc.js
+.prettierrc
+ 
